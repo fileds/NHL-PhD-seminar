@@ -7,7 +7,7 @@ library(tidyverse)
 df <- read.table("dbs/fantasy_db.csv", header = T)
 
 # Filtering player with name containing "Ovechkin"
-fantasy_df %>% filter(grepl("Toffoli", fullName))
+df %>% filter(grepl("Ovechkin", fullName))
 
 # Selecting non-golie columns. Remove exclamation mark to select only goalie 
 # columns
@@ -19,9 +19,29 @@ df %>%
   "powerPlaySavePercentage", "shortHandedSavePercentage", 
   "evenStrengthSavePercentage"))
 
+# Mutating to get goals per minute
+# Mutate helps you create new columns. It is powerful to use combined with 
+# case_when().
 df %>%
-  mutate(goals = as.numeric(goals),
-    timeOnIce = as.numeric(timeOnIce))
-  mutate(goalPerMinute = case_when(
-    !is.na(goals) & !is.na(timeOnIce) ~ goals / timeOnIce,
-    T ~ NA))
+  mutate(goalPerMinute = as.numeric(as.numeric(goals) 
+    / as.numeric(timeOnIce))) %>%
+  filter(grepl("Ovechkin", fullName))
+  
+# Mutate with case_when()
+df %>%
+  mutate(manyGoals = case_when(
+    goals > 30 ~ "strong",
+    TRUE ~ "weak")
+  ) %>%
+  filter(grepl("Ovechkin", fullName))
+
+# Creating column to compare goals scored between seasons
+# group_by() is useful when we want to compare subsets of our sample. Here we 
+# group on id to only compare seasons for one player. Lag is used to compare 
+# with the previous row.
+df %>%
+  group_by(id) %>%
+  mutate(goalDiff = goals - lag(goals, 1)) %>%
+  as.data.frame() %>%
+  filter(grepl("Ovechkin", fullName))
+  
