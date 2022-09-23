@@ -3,7 +3,7 @@ Data to use at Statistics PhD seminar 23/9, 2022.
 
 ## Instructions
 ### Cloning the repo
-Clone the directory by doing a git clone. Amin can probably help you with this better than I can.
+Clone the directory by doing a git clone. Otherwise I can also share it on teams, but I figured we'll try GitHub!
 
 ### Loading and exploring the data
 The data is stored in *dbs/fantasy_df.csv*, but you can use the script *PhD_seminar.R* to explore the data.
