@@ -8,32 +8,38 @@ library(tidyverse)
 load_season <- function(path) {
   idf <- read.csv(paste0(path, "/info.csv"))
   sdf <- read.csv(paste0(path, "/seasons.csv"))
-  sdf <- sdf %>% mutate(fullName = idf$fullName,
-    position = case_when(
-      grepl("Goalie", idf$primaryPosition, fixed = TRUE) ~ "G",
-      grepl("Defenseman", idf$primaryPosition, fixed = TRUE) ~ "D",
-      grepl("Right Wing", idf$primaryPosition, fixed = TRUE) ~ "W",
-      grepl("Left Wing", idf$primaryPosition, fixed = TRUE) ~ "W",
-      grepl("Center", idf$primaryPosition, fixed = TRUE) ~ "C"
+  sdf <- sdf %>% 
+    mutate(fullName = idf$fullName,
+      id = idf$id,
+      position = case_when(
+        grepl("Goalie", idf$primaryPosition, fixed = TRUE) ~ "G",
+        grepl("Defenseman", idf$primaryPosition, fixed = TRUE) ~ "D",
+        grepl("Right Wing", idf$primaryPosition, fixed = TRUE) ~ "W",
+        grepl("Left Wing", idf$primaryPosition, fixed = TRUE) ~ "W",
+        grepl("Center", idf$primaryPosition, fixed = TRUE) ~ "C"
       )
-  )
+    ) 
+  
   return(sdf)
 }
 
 # Loading and merging into one large DF
 ids <- list.dirs(path = "/home/fileds/dev/NHL/data_fetcher/data/player_data", 
   full.names = TRUE, recursive = FALSE)
-df <- bind_rows(lapply(ids[3:length(ids)], load_season))
+df <- bind_rows(lapply(ids[1:length(ids)], load_season))
 
-# Selects relevant columns and calculates fantasy points
+# Selects relevant columns, relocating and fixing string data to numeric.
 df <- df %>% 
   select(!c(X, sequenceNumber)) %>%
   relocate(position) %>%
-  relocate(fullName) 
+  relocate(fullName) %>%
+  relocate(id)  %>%
+  mutate(season = as.numeric(substr(season, 1, 4))) 
 
 fantasy_df <- df %>%
   filter(league == "National Hockey League") %>%
-  group_by(fullName, season) %>%
+  map_df(rev) %>%
+  group_by(id, season) %>%
   summarise(across(), across(where(is.numeric), sum, na.rm = TRUE)) %>%
   distinct(season, .keep_all = TRUE) %>%
   ungroup() %>%
@@ -43,7 +49,13 @@ fantasy_df <- df %>%
           3 * shutouts),
       TRUE ~ (2 * assists + 3 * goals + plusMinus * 0.3 + 1 * shortHandedPoints 
         + 0.2 * shots + 0.2 * hits + 0.3 * blocked))
-    ) 
+    ) %>%
+  separate(timeOnIce, c("timeOnIce", NA), ":", convert = TRUE) %>%
+  separate(evenTimeOnIce, c("evenTimeOnIce", NA), ":", convert = TRUE) %>%
+  separate(powerPlayTimeOnIce, c("powerPlayTimeOnIce", NA), ":", 
+    convert = TRUE) %>%
+  separate(shortHandedTimeOnIce, c("shortHandedTimeOnIce", NA), ":", 
+    convert = TRUE)
 
   
   

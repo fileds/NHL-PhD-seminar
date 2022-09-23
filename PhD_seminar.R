@@ -7,7 +7,7 @@ library(tidyverse)
 df <- read.table("dbs/fantasy_db.csv", header = T)
 
 # Filtering player with name containing "Ovechkin"
-df %>% filter(grepl("Ovechkin", fullName))
+fantasy_df %>% filter(grepl("Toffoli", fullName))
 
 # Selecting non-golie columns. Remove exclamation mark to select only goalie 
 # columns
