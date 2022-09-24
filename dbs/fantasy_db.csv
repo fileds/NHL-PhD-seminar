@@ -1530,18 +1530,18 @@
 8475149 2019 "Marcus Johansson" "W" "Buffalo Sabres" "National Hockey League" 21 9 20 60 20 30 87 1 10.3 1 0 -12 1028 39 6 147 861 40 1 0 19 22 1259 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 97.2
 8475149 2020 "Marcus Johansson" "W" "Minnesota Wild" "National Hockey League" 8 6 4 36 4 14 46 2 13 3 0 -10 573 12 6 65 463 37.65 1 0 45 12 698 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 46.2
 8475149 2021 "Marcus Johansson" "W" "Washington Capitals" "National Hockey League" 20 9 4 69 4 29 111 3 17.4 2 0 -26 267 31 10 37 230 94.31 0 0 0 26 1379 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 95.4
-8475151 2010 "Kyle Palmieri" "W" "Anaheim Ducks" "National Hockey League" 0 1 0 10 0 1 10 0 10 0 0 -1 86 5 0 0 86 0 0 0 0 1 133 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6
-8475151 2011 "Kyle Palmieri" "W" "Anaheim Ducks" "National Hockey League" 3 4 6 18 6 7 34 0 11.76 0 0 3 207 20 0 16 189 100 0 0 0 6 274 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 31.5
-8475151 2012 "Kyle Palmieri" "W" "Anaheim Ducks" "National Hockey League" 11 10 9 42 9 21 92 2 10.87 5 0 2 517 48 3 57 460 8.33 0 0 0 10 673 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 83.6
-8475151 2013 "Kyle Palmieri" "W" "Anaheim Ducks" "National Hockey League" 17 14 38 71 38 31 147 0 9.52 4 0 9 847 96 0 92 755 39.13 1 0 0 31 1188 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 136.6
-8475151 2014 "Kyle Palmieri" "W" "Anaheim Ducks" "National Hockey League" 15 14 37 57 37 29 112 5 12.5 4 0 -2 803 97 11 97 705 50 1 0 0 24 1044 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 120.4
-8475151 2015 "Kyle Palmieri" "W" "New Jersey Devils" "National Hockey League" 27 30 39 82 39 57 222 11 13.51 4 0 3 1460 129 23 215 1192 37.04 2 0 52 51 1828 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 230.4
-8475151 2016 "Kyle Palmieri" "W" "New Jersey Devils" "National Hockey League" 27 26 46 80 46 53 192 8 13.54 3 1 2 1387 124 19 210 1101 41.38 0 1 75 36 1768 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 207.6
-8475151 2017 "Kyle Palmieri" "W" "New Jersey Devils" "National Hockey League" 20 24 30 62 30 44 181 11 13.26 5 0 -1 1073 94 23 172 857 33.33 0 0 43 50 1390 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 181.7
-8475151 2018 "Kyle Palmieri" "W" "New Jersey Devils" "National Hockey League" 23 27 42 74 42 50 224 11 12.05 2 0 -9 1343 98 18 243 1077 27.91 0 0 21 35 1580 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 199.2
-8475151 2019 "Kyle Palmieri" "W" "New Jersey Devils" "National Hockey League" 20 25 41 65 41 45 155 11 16.1 3 0 -4 1112 74 18 206 891 32.43 1 0 14 36 1374 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 170.4
-8475151 2020 "Kyle Palmieri" "W" "New York Islanders" "National Hockey League" 11 10 20 51 20 21 115 2 16 2 1 -5 240 62 6 27 212 101.96 0 1 0 12 1141 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 90.5
-8475151 2021 "Kyle Palmieri" "W" "New York Islanders" "National Hockey League" 18 15 57 69 57 33 156 2 9.6 6 0 0 1078 77 6 111 950 29.41 0 0 15 18 1429 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 133
+8475151 2010 "Kyle Palmieri" "C" "Anaheim Ducks" "National Hockey League" 0 1 0 10 0 1 10 0 10 0 0 -1 86 5 0 0 86 0 0 0 0 1 133 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6
+8475151 2011 "Kyle Palmieri" "C" "Anaheim Ducks" "National Hockey League" 3 4 6 18 6 7 34 0 11.76 0 0 3 207 20 0 16 189 100 0 0 0 6 274 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 31.5
+8475151 2012 "Kyle Palmieri" "C" "Anaheim Ducks" "National Hockey League" 11 10 9 42 9 21 92 2 10.87 5 0 2 517 48 3 57 460 8.33 0 0 0 10 673 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 83.6
+8475151 2013 "Kyle Palmieri" "C" "Anaheim Ducks" "National Hockey League" 17 14 38 71 38 31 147 0 9.52 4 0 9 847 96 0 92 755 39.13 1 0 0 31 1188 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 136.6
+8475151 2014 "Kyle Palmieri" "C" "Anaheim Ducks" "National Hockey League" 15 14 37 57 37 29 112 5 12.5 4 0 -2 803 97 11 97 705 50 1 0 0 24 1044 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 120.4
+8475151 2015 "Kyle Palmieri" "C" "New Jersey Devils" "National Hockey League" 27 30 39 82 39 57 222 11 13.51 4 0 3 1460 129 23 215 1192 37.04 2 0 52 51 1828 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 230.4
+8475151 2016 "Kyle Palmieri" "C" "New Jersey Devils" "National Hockey League" 27 26 46 80 46 53 192 8 13.54 3 1 2 1387 124 19 210 1101 41.38 0 1 75 36 1768 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 207.6
+8475151 2017 "Kyle Palmieri" "C" "New Jersey Devils" "National Hockey League" 20 24 30 62 30 44 181 11 13.26 5 0 -1 1073 94 23 172 857 33.33 0 0 43 50 1390 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 181.7
+8475151 2018 "Kyle Palmieri" "C" "New Jersey Devils" "National Hockey League" 23 27 42 74 42 50 224 11 12.05 2 0 -9 1343 98 18 243 1077 27.91 0 0 21 35 1580 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 199.2
+8475151 2019 "Kyle Palmieri" "C" "New Jersey Devils" "National Hockey League" 20 25 41 65 41 45 155 11 16.1 3 0 -4 1112 74 18 206 891 32.43 1 0 14 36 1374 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 170.4
+8475151 2020 "Kyle Palmieri" "C" "New York Islanders" "National Hockey League" 11 10 20 51 20 21 115 2 16 2 1 -5 240 62 6 27 212 101.96 0 1 0 12 1141 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 90.5
+8475151 2021 "Kyle Palmieri" "C" "New York Islanders" "National Hockey League" 18 15 57 69 57 33 156 2 9.6 6 0 0 1078 77 6 111 950 29.41 0 0 15 18 1429 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 133
 8475158 2009 "Ryan O'Reilly" "C" "Colorado Avalanche" "National Hockey League" 18 8 18 81 18 26 135 0 5.93 2 2 4 1358 37 0 47 1074 47.83 0 2 235 53 1862 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 113.5
 8475158 2010 "Ryan O'Reilly" "C" "Colorado Avalanche" "National Hockey League" 13 13 16 74 16 26 119 2 10.92 0 1 -7 1188 53 4 46 963 51.8 0 2 178 31 1614 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 108.6
 8475158 2011 "Ryan O'Reilly" "C" "Colorado Avalanche" "National Hockey League" 37 18 12 81 12 55 189 4 9.52 3 0 -1 1581 62 15 191 1295 52.81 2 0 94 50 2055 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 192.9
@@ -2738,16 +2738,16 @@
 8476455 2019 "Gabriel Landeskog" "W" "Colorado Avalanche" "National Hockey League" 23 21 47 54 47 44 145 6 14.5 4 0 -2 1081 86 15 204 874 56.38 0 0 2 35 1199 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 165.1
 8476455 2020 "Gabriel Landeskog" "W" "Colorado Avalanche" "National Hockey League" 32 20 34 54 34 52 155 9 12.9 8 0 14 1077 81 15 223 851 56.58 2 0 2 28 1203 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 183.8
 8476455 2021 "Gabriel Landeskog" "W" "Colorado Avalanche" "National Hockey League" 29 30 78 51 78 59 150 7 20 5 0 27 1036 94 15 202 829 54.9 1 0 3 34 1201 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 215.1
-8476456 2012 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 17 14 18 48 18 31 112 2 12.5 1 0 -15 812 33 9 113 697 33.33 0 0 1 19 1040 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 106.2
-8476456 2013 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 19 9 37 69 37 28 108 2 8.33 1 0 -5 1080 73 5 137 942 45.45 0 0 1 23 1497 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 106.6
-8476456 2014 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 39 15 38 79 38 54 169 0 8.88 0 0 10 1323 68 12 185 1127 25 0 0 10 24 1636 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 180.6
-8476456 2015 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 39 20 43 76 43 59 174 4 11.49 2 1 17 1378 53 13 204 1133 38.89 0 1 39 36 1639 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 200.3
-8476456 2016 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 16 10 13 31 13 26 86 3 11.63 2 0 -2 555 18 7 78 473 44.44 1 0 2 7 697 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 84.3
-8476456 2017 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 42 27 32 82 32 69 204 7 13.24 4 0 -2 1574 41 19 278 1288 47.73 0 0 8 42 1912 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226
-8476456 2018 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 62 30 40 82 40 92 226 11 13.27 5 0 -14 1545 57 34 279 1252 63.16 0 0 14 45 1846 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 279.9
-8476456 2019 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 55 23 30 69 30 78 152 5 15.1 3 0 5 1295 51 29 246 1047 39.34 1 0 1 26 1490 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 228.9
-8476456 2020 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 41 20 36 55 36 61 122 5 16.4 1 0 12 1012 51 24 237 774 43.59 1 0 1 11 1166 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 183.5
-8476456 2021 "Jonathan Huberdeau" "W" "Florida Panthers" "National Hockey League" 85 30 54 80 54 115 222 5 13.5 7 3 35 1553 99 38 295 1112 33.33 2 5 146 28 1839 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 348.1
+8476456 2012 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 17 14 18 48 18 31 112 2 12.5 1 0 -15 812 33 9 113 697 33.33 0 0 1 19 1040 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 106.2
+8476456 2013 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 19 9 37 69 37 28 108 2 8.33 1 0 -5 1080 73 5 137 942 45.45 0 0 1 23 1497 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 106.6
+8476456 2014 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 39 15 38 79 38 54 169 0 8.88 0 0 10 1323 68 12 185 1127 25 0 0 10 24 1636 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 180.6
+8476456 2015 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 39 20 43 76 43 59 174 4 11.49 2 1 17 1378 53 13 204 1133 38.89 0 1 39 36 1639 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 200.3
+8476456 2016 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 16 10 13 31 13 26 86 3 11.63 2 0 -2 555 18 7 78 473 44.44 1 0 2 7 697 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 84.3
+8476456 2017 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 42 27 32 82 32 69 204 7 13.24 4 0 -2 1574 41 19 278 1288 47.73 0 0 8 42 1912 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 226
+8476456 2018 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 62 30 40 82 40 92 226 11 13.27 5 0 -14 1545 57 34 279 1252 63.16 0 0 14 45 1846 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 279.9
+8476456 2019 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 55 23 30 69 30 78 152 5 15.1 3 0 5 1295 51 29 246 1047 39.34 1 0 1 26 1490 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 228.9
+8476456 2020 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 41 20 36 55 36 61 122 5 16.4 1 0 12 1012 51 24 237 774 43.59 1 0 1 11 1166 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 183.5
+8476456 2021 "Jonathan Huberdeau" "C" "Florida Panthers" "National Hockey League" 85 30 54 80 54 115 222 5 13.5 7 3 35 1553 99 38 295 1112 33.33 2 5 146 28 1839 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 348.1
 8476457 2011 "Adam Larsson" "D" "New Jersey Devils" "National Hockey League" 16 2 20 65 20 18 68 0 2.94 0 0 -7 1340 94 4 106 1204 0 0 1 28 67 1505 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 89.4
 8476457 2012 "Adam Larsson" "D" "New Jersey Devils" "National Hockey League" 6 0 12 37 12 6 30 0 0 0 0 4 669 37 0 5 621 0 0 0 42 49 871 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 41.3
 8476457 2013 "Adam Larsson" "D" "New Jersey Devils" "National Hockey League" 2 1 12 26 12 3 20 0 5 1 0 -1 462 41 0 12 426 0 0 0 23 37 622 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 30
@@ -5196,6 +5196,9 @@
 8480023 2021 "Robert Thomas" "C" "St. Louis Blues" "National Hockey League" 57 20 16 72 16 77 115 3 17.4 6 2 17 1351 13 14 147 1089 49.87 1 3 115 25 1666 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 215.2
 8480025 2020 "MacKenzie Entwistle" "W" "Chicago Blackhawks" "National Hockey League" 1 1 2 5 2 2 6 0 16.7 0 0 1 49 10 0 0 49 22.22 0 0 0 2 71 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9.1
 8480025 2021 "MacKenzie Entwistle" "W" "Chicago Blackhawks" "National Hockey League" 7 5 23 55 23 12 34 0 14.7 0 1 -16 563 129 0 4 524 40 0 1 34 22 795 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 64.4
+8480027 2019 "Jason Robertson" "W" "Dallas Stars" "National Hockey League" 1 0 0 3 0 1 4 0 0 0 0 0 36 1 1 3 33 0 0 0 0 0 50 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3
+8480027 2020 "Jason Robertson" "W" "Dallas Stars" "National Hockey League" 28 17 16 51 16 45 127 1 13.4 3 0 13 861 28 6 112 748 71.43 1 0 0 13 1074 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 145.8
+8480027 2021 "Jason Robertson" "W" "Dallas Stars" "National Hockey League" 38 41 22 74 22 79 220 13 18.6 11 0 16 1340 50 21 197 1141 0 2 0 0 24 1681 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 265
 8480028 2019 "Morgan Frost" "C" "Philadelphia Flyers" "National Hockey League" 5 2 4 20 4 7 31 0 6.5 0 1 -3 273 4 0 45 228 47.31 0 1 0 4 409 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 24.3
 8480028 2020 "Morgan Frost" "C" "Philadelphia Flyers" "National Hockey League" 0 0 0 2 0 0 0 0 0 0 0 0 20 0 0 1 18 50 0 0 0 0 31 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
 8480028 2021 "Morgan Frost" "C" "Philadelphia Flyers" "National Hockey League" 11 5 14 55 14 16 85 1 5.9 0 0 -11 765 44 2 103 658 48.39 0 0 4 29 1073 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 68.2

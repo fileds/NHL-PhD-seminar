@@ -58,9 +58,6 @@ fantasy_df <- df %>%
   separate(shortHandedTimeOnIce, c("shortHandedTimeOnIce", NA), ":", 
     convert = TRUE)
 
-  
-  
-
 fantasy_df_clean <- fantasy_df %>% 
   select(c(fullName, position, season, team, fantasyPoints, games, goals, 
     assists, points, plusMinus, shortHandedPoints, shots, hits, blocked, wins, 
