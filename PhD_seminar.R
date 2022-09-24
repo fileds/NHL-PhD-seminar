@@ -39,7 +39,7 @@ df %>%
 # group_by() is useful when we want to compare subsets of our sample. Here we 
 # group on id to only compare seasons for one player. Lag is used to compare 
 # with the previous row.
-df %>%
+df <- df %>%
   group_by(id) %>%
   mutate(goalDiff = goals - lag(goals, 1)) %>%
   as.data.frame() %>%

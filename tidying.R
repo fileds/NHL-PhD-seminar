@@ -11,6 +11,7 @@ load_season <- function(path) {
   sdf <- sdf %>% 
     mutate(fullName = idf$fullName,
       id = idf$id,
+      age = idf$age,
       position = case_when(
         grepl("Goalie", idf$primaryPosition, fixed = TRUE) ~ "G",
         grepl("Defenseman", idf$primaryPosition, fixed = TRUE) ~ "D",
